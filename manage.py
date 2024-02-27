@@ -20,3 +20,12 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+
+#super user:
+#user: evankellener
+#email: evan@kellener.com
+#password: superpassword
+    
+#run server
+#python3 manage runserver
